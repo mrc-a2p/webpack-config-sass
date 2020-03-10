@@ -1,0 +1,12 @@
+body {
+    background-color: $co-body-bg;
+  }
+  
+  .Panel {
+    background-color: #fff;
+    padding: 25px;
+  
+    &-destacado {
+      background-color: aqua;
+    }
+  }
